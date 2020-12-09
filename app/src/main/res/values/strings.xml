@@ -1,3 +1,22 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">XmlKotlin</string>
+
+    <string name="hello">
+<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:gray;background-color:white;">
+  Sebelum saya membahas apa perbedaan antara Layout Linear, Constraint Dan Relative saya akan kasih tau teman-teman apa itu Layout ?
+Layout adalah penyusunan dari elemen-elemen desain yang berhubungan kedalam sebuah bidang sehingga membentuk susunan artistik. Hal ini bisa juga disebut manajemen bentuk dan bidang. Tujuan utama layout adalah menampilkan elemen gambar dan teks agar menjadi komunikatif dalam sebuah cara yang dapat memudahkan pembaca menerima informasi yang disajikan. Dari pengertian tersebut kita bisa simpulkan bahwa layout adalah sebuah tata letak dari objek atau tampilan desain yang kita buat.
+Nah disini kita akan belajar tentang Perbedaan Layout Linear, Constraint dan Relative pada Android. Linear, Relative dan Constraint merupakan jenis-jenis layout yang ada pada XML saat kita membuat Aplikasi Android di Android Studio . Langsung saja kita simak penjelasan dari ketiga Layout ini
+ </body>
+</html>
+]]>
+</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="paused">Paused…</string>
+    <string name="playing">Playing…</string>
+
 </resources>
